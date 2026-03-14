@@ -51,11 +51,39 @@ View Session in My Account
 ## Tools Used
 - Figma for UI design and prototyping  
 - Icon libraries  
-- Google Fonts  
+- Google Fonts
+
+ ## Project Outcome
+This mobile booking interface improves the session booking experience by making it faster, more organized and user-friendly for both customers and fitness studio management.
+
 
 ## Prototype Link
 https://www.figma.com/proto/eTvnmJeoOIXtbm7PKcfIto/Untitled?node-id=1-2&p=f&t=SiqnU56cAGAEExdw-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
 
+## Key Screens
 
-## Project Outcome
-This mobile booking interface improves the session booking experience by making it faster, more organized and user-friendly for both customers and fitness studio management.
+### Home Screen
+![Home](Frame 1.png)
+
+### Programs Screen
+![Programs](Frame 2.png)
+
+### Login Screen
+![Login](login.png)
+
+### Booking Screen
+![Booking](program choosing.png)
+
+### Booking Options
+![Booking2](program choosing (1).png)
+![Booking3](program choosing (2).png)
+![Booking4](program choosing (3).png)
+
+### Booking Summary
+![Summary](confirmation summary.png)
+
+### Confirmation Screen
+![Confirmation](confirm page.png)
+
+### Profile Screen
+![Profile](MY ACCOUNT.png)
