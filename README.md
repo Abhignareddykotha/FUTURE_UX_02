@@ -54,7 +54,8 @@ View Session in My Account
 - Google Fonts  
 
 ## Prototype Link
-Add your Figma prototype link here.
+https://www.figma.com/proto/eTvnmJeoOIXtbm7PKcfIto/Untitled?node-id=1-2&p=f&t=SiqnU56cAGAEExdw-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
+
 
 ## Project Outcome
 This mobile booking interface improves the session booking experience by making it faster, more organized and user-friendly for both customers and fitness studio management.
