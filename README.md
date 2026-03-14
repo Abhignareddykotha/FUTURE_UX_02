@@ -63,27 +63,28 @@ https://www.figma.com/proto/eTvnmJeoOIXtbm7PKcfIto/Untitled?node-id=1-2&p=f&t=Si
 ## Key Screens
 
 ### Home Screen
-![Home](Frame 1.png)
+![Home](Frame%201.png)
 
 ### Programs Screen
-![Programs](Frame 2.png)
+![Programs](Frame%202.png)
 
 ### Login Screen
 ![Login](login.png)
 
 ### Booking Screen
-![Booking](program choosing.png)
+![Booking](program%20choosing.png)
 
 ### Booking Options
-![Booking2](program choosing (1).png)
-![Booking3](program choosing (2).png)
-![Booking4](program choosing (3).png)
+![Booking2](program%20choosing%20(1).png)
+![Booking3](program%20choosing%20(2).png)
+![Booking4](program%20choosing%20(3).png)
 
 ### Booking Summary
-![Summary](confirmation summary.png)
+![Summary](confirmation%20summary.png)
 
 ### Confirmation Screen
-![Confirmation](confirm page.png)
+![Confirmation](confirm%20page.png)
 
 ### Profile Screen
-![Profile](MY ACCOUNT.png)
+![Profile](MY%20ACCOUNT.png)
+
