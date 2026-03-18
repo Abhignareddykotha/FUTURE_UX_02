@@ -88,9 +88,9 @@ https://www.figma.com/proto/eTvnmJeoOIXtbm7PKcfIto/Untitled?node-id=1-2&p=f&t=Si
 ### Profile Screen
 ![Profile](MY%20ACCOUNT.png)
 
-##  Case Study Document
+## 📊 Project Presentation (PPT)
 
-View the complete UI/UX case study here:
+You can view the complete presentation here:
 
-👉 [Open Case Study PDF](./PPT%202.pdf)
+👉 [Open Presentation](./PPT%202.pdf)
 
